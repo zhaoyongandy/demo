@@ -38,6 +38,7 @@ public class ConsulTest {
 				System.out.println("port: " + service.getPort());
 			}
 
+			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
